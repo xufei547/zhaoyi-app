@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xufei547.github.io/zhaoyi-app/sitemap.xml
